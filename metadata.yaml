@@ -1,0 +1,37 @@
+_repo: Alaska_15178
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jón Ólafsson
+    aliases:
+    - Jon Olafsson
+    - Ólafsson, Jón
+    birthdate: 1850
+    deathdate: 1916
+    gutenberg_agent_id: '5905'
+    url: http://www.gutenberg.org/2009/agents/5905
+    wikipedia: http://en.wikipedia.org/wiki/J%C3%B3n_%C3%93lafsson_%28journalist%29
+description: ''
+gutenberg_issued: '2005-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15178'
+  lccn: '01016607'
+language: is
+production_note: Produced from page images available from the Library of Congress,
+  at http://hdl.loc.gov/loc.rbc/mtfrb.16607
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alaska -- Description and travel'
+- !lcsh 'Iceland -- Emigration and immigration'
+- !lcsh 'Alaska -- Emigration and immigration'
+- !lcsh 'Icelanders -- Alaska'
+- !lcc 'F850.5'
+- !lcsh 'Immigrants -- Alaska'
+title: Alaska
+url: http://www.gutenberg.org/ebooks/15178
